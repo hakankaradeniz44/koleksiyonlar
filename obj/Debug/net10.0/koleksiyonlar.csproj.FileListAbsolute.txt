@@ -1,0 +1,14 @@
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/bin/Debug/net10.0/koleksiyonlar
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/bin/Debug/net10.0/koleksiyonlar.deps.json
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/bin/Debug/net10.0/koleksiyonlar.runtimeconfig.json
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/bin/Debug/net10.0/koleksiyonlar.dll
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/bin/Debug/net10.0/koleksiyonlar.pdb
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/obj/Debug/net10.0/koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/obj/Debug/net10.0/koleksiyonlar.AssemblyInfoInputs.cache
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/obj/Debug/net10.0/koleksiyonlar.AssemblyInfo.cs
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/obj/Debug/net10.0/koleksiyonlar.csproj.CoreCompileInputs.cache
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/obj/Debug/net10.0/koleksiyonlar.dll
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/obj/Debug/net10.0/refint/koleksiyonlar.dll
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/obj/Debug/net10.0/koleksiyonlar.pdb
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/obj/Debug/net10.0/koleksiyonlar.genruntimeconfig.cache
+/Users/semihkartal/Desktop/denemler/koleksiyonlar/obj/Debug/net10.0/ref/koleksiyonlar.dll
